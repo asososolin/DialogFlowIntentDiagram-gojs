@@ -1,0 +1,29 @@
+.diagrame-index{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.diagrame-index .area{
+    margin-top: 10px;
+}
+
+.diagrame-index .diagram-part{
+    display: flex;
+    flex-direction: row;
+}
+
+.diagrame-index .model-text-area {
+	margin: 10px;
+	height:600px; 
+}
+
+.diagrame-index .model-text-area textarea{
+	width:450px; 
+	height:85%;
+}
+
+.diagrame-index .diagram-part .diagram-area .myDiagramDiv{
+	width:500px; 
+	height:600px; 
+	background-color: #DAE4E4;
+}
